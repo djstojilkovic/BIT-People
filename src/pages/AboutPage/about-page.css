@@ -1,0 +1,16 @@
+.about-div {
+  margin: 0 auto;
+  width: 57%;
+}
+.about-div > h1 {
+  font-size: 60px;
+  padding-top: 30px;
+}
+.about-div > h3 {
+  font-size: 40px;
+  padding-top: 30px;
+}
+.about-div > p {
+  font-size: 20px;
+  padding-top: 20px;
+}

@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.footer {
+  background-color: rgb(238, 110, 115);
+  color: white;
+  font-size: 18px;
+  padding: 10px;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 21.4%;
+}

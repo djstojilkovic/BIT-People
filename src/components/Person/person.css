@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.people {
+  width: 57%;
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-bottom: 60px;
+}
+.person {
+  background-color: rgb(255, 235, 238);
+}
+.person-list {
+  border: 1px solid lightgrey;
+}
+.circle-img {
+  border-radius: 50%;
+  width: 50%;
+}
+.person-list > li {
+  display: flex;
+  /* padding: 20px; */
+}
+.person-list > li:hover {
+  box-shadow: 10px 5px 5px lightgrey;
+  cursor: pointer;
+}
